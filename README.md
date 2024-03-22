@@ -26,6 +26,8 @@ run npm test
 
 # Live Link
 
+https://molly-mbugi.github.io/wk1-code-challenge/
+
 ## Technologies used
 
 Github
