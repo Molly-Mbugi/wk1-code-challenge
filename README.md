@@ -14,7 +14,7 @@
 ## Installation Requirements
 Install a git hub from github.com and install
 ### Installation instruction
-git clone (https://github.com/Molly-Mbugi/code-challenge-1.git)
+git clone ()https://github.com/Molly-Mbugi/wk1-code-challenge.git
 Fork and clone this challenge in the terminal and cd to(code-challenge-1) the repository.
 After..............
 
