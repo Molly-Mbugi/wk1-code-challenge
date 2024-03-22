@@ -5,17 +5,17 @@
 
 ## Description
 
--program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade
--A program that takes as input the speed of a car
--A program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits
+* program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade
+* A program that takes as input the speed of a car
+* A program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits
 ## Installation
--Fork and clone this into your local environment.
--Navigate into its directory in the terminal(code-challenge-1), then run code. to visual studio.
+* Fork and clone this into your local environment.
+* Navigate into its directory in the terminal(code-challenge-1), then run code. to visual studio.
 ## Installation Requirements
 Install a git hub from github.com and install
 ### Installation instruction
 git clone ()https://github.com/Molly-Mbugi/wk1-code-challenge.git
-Fork and clone this challenge in the terminal and cd to(code-challenge-1) the repository.
+Fork and clone this challenge in the terminal and cd to(wk1-code-challenge) the repository.
 After..............
 
 -run npm install
@@ -30,8 +30,8 @@ https://molly-mbugi.github.io/wk1-code-challenge/
 
 ## Technologies used
 
-Github
-Javascript
+* Github
+* Javascript
 
 
 ## Support and contact details
