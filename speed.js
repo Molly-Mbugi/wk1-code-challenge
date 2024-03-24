@@ -4,7 +4,7 @@ const km = 5;
 let Points = 0;
 
 if (speed > Limit) {
-    for (let i = Limit + km; i <= speed; i += km) {Points++;}
+    for (let i = Limit + km; i <= speed; i + km) {Points++;}
 }
 
 if (speed <= Limit) {
